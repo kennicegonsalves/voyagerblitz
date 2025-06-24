@@ -1,0 +1,10 @@
+/build/
+nbproject/private/
+/dist/
+*.class
+*.log
+*.jar
+hs_err_*.log
+manifest.mf
+*.iml
+*.swp
